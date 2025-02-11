@@ -8,7 +8,7 @@ I design and build **beautiful, responsive, and user-friendly websites** that ma
 ---
 
 ### 🛠️ **Tech Stack**  
-Here are some of the tools and technologies I work with:  
+Here are some of the tools and technologies I develop with:  
 
 - **Front-End:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -23,35 +23,13 @@ Here are some of the tools and technologies I work with:
   ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)  
   ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)  
 
----
-
-### 🌟 **Featured Projects**  
-
-#### 🛒 **Premium Ecommerce Website**  
-- Built with **Shopify Liquid, HTML5, CSS3, and JavaScript**.  
-- Integrated third-party APIs to boost functionality by **50%**.  
-
-#### 🚗 **Luxury Transportation Landing Page**  
-- Designed with **React, TypeScript, and Tailwind CSS**.  
-- Added a contact form for seamless client communication.  
-
-#### 🌱 **Landscaping Business Landing Page**  
-- Integrated **Stripe** for payments, achieving a **99.9% transaction success rate**.  
-
-#### 🌍 **Community Outreach Website**  
-- Built a **bilingual website** to expand community reach.  
-- Improved navigation and cross-platform compatibility for a smooth UX.  
-
----
-
 ### 🎓 **Background**  
-- **Bachelor of Science in Computer Science** from **Florida Atlantic University**.  
-- Former **Software Engineer Research Assistant** at FAU, where I worked on a robot control app for **NextEra Energy**.  
+- **Bachelor of Science in Computer Science** from **Florida Atlantic University**.    
 
 ---
 
 ### 🎨 **Fun Facts About Me**  
-- I love automating tasks with JavaScript – it’s like magic! ✨  
+- I love automating tasks with Python – it’s like magic! ✨  
 - I’m passionate about creating **intuitive and accessible user experiences**.  
 - When I’m not coding, you can find me exploring new tech trends or binge-watching sci-fi shows. 🚀  
 
