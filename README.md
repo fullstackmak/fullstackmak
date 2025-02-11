@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Makenson "Mak"  
-
-🚀 **Front-End Developer** | **Creative Problem Solver** | **Tech Enthusiast**  
-
+  
 ---
 
 ### 💻 **What I Do**  
