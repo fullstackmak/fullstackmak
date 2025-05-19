@@ -1,7 +1,3 @@
-Here's a refined version tailored for a **full-stack developer** who uses **TypeScript** and modern tools like **React** — keeping your tone, layout, and character count consistent:
-
----
-
 # 👋 Hi, I'm Makenson
 
 ---
