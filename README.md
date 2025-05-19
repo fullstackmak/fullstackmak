@@ -47,5 +47,3 @@ Always happy to chat or collaborate on exciting dev projects — let’s connect
 ---
 
 ⭐ **Thanks for visiting my GitHub!** ⭐
-
-Let me know if you want a version tailored for a specific job or audience (like startups, recruiters, or freelance clients).
