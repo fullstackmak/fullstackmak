@@ -1,7 +1,3 @@
-Here's your revised version tailored for a **Product Manager** role, while still reflecting your technical strengths and professional personality:
-
----
-
 # 👋 Hi, I'm Makenson
 
 ---
@@ -68,5 +64,3 @@ Whether it's product strategy, customer insights, or UX improvements — I’d l
 ---
 
 ⭐ **Thanks for stopping by — let’s build something impactful!** ⭐
-
-Let me know if you'd like a version customized for GitHub, a personal site, or LinkedIn specifically.
