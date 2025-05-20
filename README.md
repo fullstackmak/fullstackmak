@@ -17,7 +17,6 @@ Here are some of the tools and technologies I develop with:
 ![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat\&logo=tailwind-css\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat\&logo=shopify\&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat\&logo=stripe\&logoColor=white)
