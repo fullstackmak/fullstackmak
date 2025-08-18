@@ -4,7 +4,7 @@
 
 ### 📦 **What I Do**
 
-I'm a **Product Manager** with a background in **software development**, specializing in launching and improving digital products that are **user-focused, scalable, and data-driven**. I bridge the gap between engineering, design, and business goals — turning insights into **products that deliver value**.
+I'm a **Software Engineer** with a background in **software development**, specializing in launching and improving digital products that are **user-focused, scalable, and data-driven**. I bridge the gap between engineering, design, and business goals — turning insights into **products that deliver value**.
 
 ---
 
