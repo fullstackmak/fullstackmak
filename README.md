@@ -87,7 +87,7 @@ Currently working as a **Software Engineer at The Driscoll Firm**, where I own s
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makensonnoel/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makenson-noel/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:makensoninoel@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.makenson.com/)
 
