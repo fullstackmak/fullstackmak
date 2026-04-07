@@ -1,66 +1,96 @@
-# 👋 Hi, I'm Makenson
+# 👋 Hi, I'm Makenson (Mak)
 
 ---
 
-### 📦 **What I Do**
+## 🚀 Software Engineer – Backend & Integrations
 
-I'm a **Software Engineer** with a background in **software development**, specializing in launching and improving digital products that are **user-focused, scalable, and data-driven**. I bridge the gap between engineering, design, and business goals — turning insights into **products that deliver value**.
+I design and build **backend systems, APIs, and automation pipelines** that connect business-critical platforms and eliminate manual work.
 
----
-
-### 🧰 **Core Skills & Tools**
-
-I work across the product lifecycle using modern tools for **product development, analysis, and collaboration**:
-
-![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-1E90FF?style=flat)
-![User Research](https://img.shields.io/badge/-User%20Research-20B2AA?style=flat)
-![Agile](https://img.shields.io/badge/-Agile-FFA500?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat\&logo=shopify\&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat\&logo=stripe\&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat\&logo=jira\&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+Currently working as a **Software Engineer at The Driscoll Firm**, where I own system integrations across legal, CRM, and marketing platforms — turning complex workflows into scalable, automated systems.
 
 ---
 
-### 🛠 **Projects I've Led**
+## ⚙️ What I Do
 
-* **Thousand Men Shopify Store**
-  Led UI/UX redesign and inventory infrastructure, improving brand trust and customer engagement.
-
-* **Amose Blanc Shopify Store**
-  Directed full product launch and lifecycle, integrating enterprise dropshipping and marketing ops.
-
-* **Harvest Community Food Bank Website**
-  Built a bilingual donation platform using React and integrated Stripe/PayPal to expand community access and donations.
+- 🔗 Build **API integrations & webhook pipelines**
+- ⚡ Design **event-driven systems & automation workflows**
+- 📊 Develop **data pipelines & analytics dashboards**
+- 🧠 Solve real business problems with scalable backend solutions
+- 🏗️ Bridge the gap between **operations and engineering**
 
 ---
 
-### 🎓 **Background**
+## 🧰 Tech Stack
 
-* **Bachelor of Science in Computer Science** from **Florida Atlantic University**
-* Trained in **Data Analytics, UX/UI, and Agile product development**
+**Languages**
+- Python, TypeScript, JavaScript (Node.js), SQL
 
----
+**Backend & Systems**
+- REST APIs, Webhooks, Event-Driven Architecture  
+- System Integrations, Data Pipelines, Automation
 
-### 💡 **Fun Facts About Me**
+**Databases**
+- PostgreSQL, Data Modeling, Query Optimization
 
-* I love turning product ideas into reality with strategy, research, and collaboration.
-* I bring a technical mindset to product conversations, helping teams move faster and smarter.
-* Outside of work, you’ll find me learning new tools, analyzing trends, or building something useful. 🚀
+**Frontend (when needed)**
+- React, Vite, HTML, CSS
 
----
-
-### 📬 **Let’s Connect!**
-
-Whether it's product strategy, customer insights, or UX improvements — I’d love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/makenson-noel/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:makensoninoel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat\&logo=firefox\&logoColor=white)](https://www.makenson.com/)
+**Tools & Platforms**
+- Git, Postman, Zapier, Power Automate, Make  
+- Neos, Lawmatics, Filevine, Lead Docket, CaseOpp
 
 ---
 
-⭐ **Thanks for stopping by — let’s build something impactful!** ⭐
+## 🏗️ What I've Built
+
+### 🔄 End-to-End Lead Automation System
+- Integrated **Neos, Lawmatics, Filevine, and Lead Docket**
+- Built webhook pipelines for real-time data sync
+- Reduced manual processing by **60–80%**
+
+---
+
+### 📊 Internal Analytics Dashboard
+- Built dashboards using **TypeScript + SQL**
+- Tracks lead flow, conversion rates, and KPIs
+- Reduced reporting time by **50%**
+
+---
+
+### 📄 Document Automation System
+- Automated generation of **1,000+ client documents**
+- Eliminated manual entry and saved **100+ hours**
+
+---
+
+### 🧹 Data Normalization & Deduplication Engine
+- Reduced duplicate records by **30–50%**
+- Improved CRM data integrity across systems
+
+---
+
+## 🎓 Background
+
+- **B.S. in Computer Science** – Florida Atlantic University  
+- Experience across **software engineering, data, and system integration**
+
+---
+
+## 📈 What I'm Focused On
+
+- Backend Engineering
+- System Design & Architecture
+- Scalable Integrations
+- Automation & Data Systems
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makenson-noel/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:makensoninoel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.makenson.com/)
+
+---
+
+⭐ **I build systems that save time, scale operations, and drive real business impact.**
