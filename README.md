@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Makenson (Mak)
+# 👋 Hi, I'm Mak
 
 ---
 
