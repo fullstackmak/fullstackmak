@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Software Engineer – Backend & Integrations
+## 🚀 Software Engineer
 
 I design and build **backend systems, APIs, and automation pipelines** that connect business-critical platforms and eliminate manual work.
 
